@@ -1,0 +1,11 @@
+ja:
+  activerecord:
+    attributes:
+      post:
+        syoku: 初句
+        niku: 二句
+        kekku: 結句
+      user:
+        name: ユーザー名
+        email: メールアドレス
+        password: パスワード
